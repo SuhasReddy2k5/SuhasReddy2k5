@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SuhasReddy2k5
 - 👀 I’m interested in Developing
-- 🌱 I’m currently learning Coding
+- 🌱 I’m currently learning Computer science
 
   
 
